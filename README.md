@@ -1,7 +1,7 @@
 # Smart Expense Splitter (Java)
 ## Title:
 Programming in Java Evaluated Course Project
-###
+### Name and detail    
 Virat Nigam 
 24BAI10848
 VIT Bhopal
